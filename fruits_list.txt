@@ -3,7 +3,4 @@ fruits list ->
 apple 
 oranges
 bananas
-cherries
-grapes
-mangoes
-papaya
+
