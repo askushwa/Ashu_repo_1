@@ -5,3 +5,5 @@ oranges
 bananas
 cherries
 grapes
+mangoes
+papaya
